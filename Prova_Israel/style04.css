@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    
+}
+
+
+#inicio {
+    padding: 10px;
+    background-color: #000000;
+    color: rgb(253, 253, 253);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#login {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 50px 480px;
+    height: 30vh
+}
+
+#final {
+    padding: 10px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color:black
+}
+a {
+    text-decoration: none
+}

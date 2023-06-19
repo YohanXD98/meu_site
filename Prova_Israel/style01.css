@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-image: url(images/samurai_fan_art_hd_adult_swim.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+
+
+#inicio {
+    padding: 10px;
+    background-color: #000000;
+    color: rgb(253, 253, 253);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+div.box {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    color: white;
+    width: 400px;
+	display: inline-block;
+    justify-content: left;
+}
+
+#ghost {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#meio {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+#final {
+    padding: 10px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color:black
+}
+a {
+    text-decoration: none
+}
